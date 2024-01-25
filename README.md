@@ -1,2 +1,2 @@
-# REPOSIORIO COD
+# REPOSITÓRIO COD
 #### Criado para praticar comandos do Git.
